@@ -1,0 +1,7 @@
+print("Enter Your Name")
+x=input()
+print("Enter Your Age")
+y=input()
+print("Enter Your Weight")
+z=input()
+print(" Name -,x ","\n","Age -",y,"\n","Weight -",z,"Kg")
